@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Enumeration\ class\ Character\r\n\ A\ character\ in\ the\ game.\r\n\ \r\n\ @author\ Olaf\ Chitil\r\n\ @version\ 4/2/2019\r\n
+comment1.params=desc\ it
+comment1.target=Character(java.lang.String,\ Item)
+comment1.text=\r\n\ Constructor\ initialising\ description\ and\ item.\r\n\ @param\ desc,\ the\ description\ of\ the\ character\r\n\ @param\ it,\ the\ item\ the\ character\ posesses\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ the\ description\ and\ description\ of\ item\ if\ it\ exists.\r\n
+comment3.params=it
+comment3.target=boolean\ take(Item)
+comment3.text=\r\n\ Take\ the\ given\ item\ from\ the\ character\ if\ it\ has\ that\ item.\r\n\ Return\ whether\ item\ was\ taken.\r\n\ @param\ it,\ the\ item\ the\ user\ wants\ to\ try\ to\ take\r\n
+numComments=4
